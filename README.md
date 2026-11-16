@@ -1,4 +1,10 @@
-# SUKA Project
+<p align="center">
+  <img src="public/svg/logo.svg" alt="SUKA Logo" width="160" />
+</p>
+
+<h1 align="center">SUKA Project</h1>
+
+<p align="center">Offline-first POS for Indonesian businesses.</p>
 
 SUKA is a POS project for Indonesian businesses. The idea is simple: give business owners a cashier system they can use for free, even when the internet is down. When they need more features, they can add them through optional plugins.
 
